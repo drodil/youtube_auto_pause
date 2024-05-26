@@ -47,7 +47,8 @@
       "https://*.primevideo.com/*",
       "https://*.hbomax.com/*",
       "https://*.disneyplus.com/*",
-      "https://*.twitch.tv/*"
+      "https://*.twitch.tv/*",
+      "https://*.udacity.com/*"
     ]
   },
   "commands": {
